@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "reactNamespace": "DOM",
+    "types": [
+      "node", "mocha"
+    ]
+  }
+}

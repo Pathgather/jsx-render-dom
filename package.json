@@ -1,0 +1,35 @@
+{
+  "name": "jsx-render-dom",
+  "version": "0.1.0",
+  "description": "Create DOM nodes directly using JSX with Typescript support",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc -p build.tsconfig.json",
+    "extract-property-config": "ts-node scripts/extract-property-config",
+    "test": "mocha --compilers ts:ts-node/register,tsx:ts-node/register"
+  },
+  "keywords": [
+    "jsx",
+    "typescript",
+    "react",
+    "dom",
+    "createElement"
+  ],
+  "author": "Guntars Asmanis-Graham",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/expect.js": "0.3.29",
+    "@types/mocha": "2.2.33",
+    "@types/node": "0.0.2",
+    "@types/react": "0.14.54",
+    "better-assert": "1.0.2",
+    "expect.js": "0.3.1",
+    "mocha": "3.2.0",
+    "react": "15.4.1",
+    "react-dom": "15.4.1",
+    "ts-node": "1.7.0",
+    "typescript": "2.2.0-dev.20161206"
+  },
+  "dependencies": {},
+  "types": "./src/jsx.d.ts"
+}
