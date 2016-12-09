@@ -1,3 +1,6 @@
+[![npm](https://img.shields.io/npm/v/jsx-render-dom.svg)](https://github.com/guncha/jsx-render-dom)
+[![David](https://img.shields.io/david/guncha/jsx-render-dom.svg)](https://github.com/guncha/jsx-render-dom)
+
 # Create DOM nodes directly using JSX with Typescript support #
 
 This is yet another library that allows you to create DOM nodes using JSX syntax. Other libraries were
@@ -45,8 +48,8 @@ document.body.appendChild(LoginForm("hello@world.com", email => {
 
 ### Alternatives ###
 
-https://github.com/alexlur/jsx-dom
-https://github.com/pixelass/jsx-create-element
-https://github.com/sdunster/jsx-dom-factory
-https://github.com/turtlemay/jsx-dom
-https://github.com/vjeux/jsxdom
+1. https://github.com/alexlur/jsx-dom
+2. https://github.com/pixelass/jsx-create-element
+3. https://github.com/sdunster/jsx-dom-factory
+4. https://github.com/turtlemay/jsx-dom
+5. https://github.com/vjeux/jsxdom
