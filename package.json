@@ -1,6 +1,6 @@
 {
   "name": "jsx-render-dom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create DOM nodes directly using JSX with Typescript support",
   "main": "./dist/index.js",
   "scripts": {
