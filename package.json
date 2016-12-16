@@ -1,8 +1,9 @@
 {
   "name": "jsx-render-dom",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create DOM nodes directly using JSX with Typescript support",
   "main": "./dist/index.js",
+  "repository": "Pathgather/jsx-render-dom",
   "scripts": {
     "build": "tsc -p build.tsconfig.json",
     "extract-property-config": "ts-node scripts/extract-property-config",
