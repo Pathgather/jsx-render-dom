@@ -1,5 +1,5 @@
 [![npm](https://img.shields.io/npm/v/jsx-render-dom.svg)](https://github.com/guncha/jsx-render-dom)
-[![David](https://img.shields.io/david/guncha/jsx-render-dom.svg)](https://github.com/guncha/jsx-render-dom)
+[![David](https://img.shields.io/david/Pathgather/jsx-render-dom.svg)](https://github.com/Pathgather/jsx-render-dom)
 
 # Create DOM nodes directly using JSX with Typescript support #
 
